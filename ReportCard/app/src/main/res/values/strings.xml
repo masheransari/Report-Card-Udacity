@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Report Card</string>
+    <string name="name">Enter Name</string>
+    <string name="nameHint">Enter Student Name</string>
+    <string name="semester">Semester</string>
+    <string name="btnResult">Show Result</string>
+
+</resources>

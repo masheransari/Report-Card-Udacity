@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="magnitude1">#4A7BA7</color>
+    <color name="nameColor">#2a42e2</color>
+    <color name="semester">#2a42e2</color>
+    <color name="FourGpa">#e94d12</color>
+    <color name="ThreeNine">#ef5a20</color>
+    <color name="threeSeven">#e97447</color>
+    <color name="threeFive">#f18c65</color>
+    <color name="threeThree">#ea9676</color>
+    <color name="three">#6d2fb9</color>
+    <color name="twoNine">#0637f7</color>
+    <color name="twoSeven">#3d62f2</color>
+    <color name="twoThree">#748be6</color>
+    <color name="oneFive">#ef5d66</color>
+    <color name="afterOneFive">#f50817</color>
+
+</resources>
